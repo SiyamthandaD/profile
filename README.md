@@ -32,3 +32,5 @@ Welcome to the personal portfolio website of Siyamthanda Dlakavu, a web develope
 * Feel free to connect with me via my portfolio site or the contact information provided below:
   - Email: dlakavusiseko@gmail.com
   - Phone Number: 078 218 3665
+
+<div align="center"> <p>Built with ❤️ by Siyamthanda Dlakavu</p>
