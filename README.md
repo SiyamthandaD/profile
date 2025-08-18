@@ -1,6 +1,7 @@
 ## Siyamthanda Dlakavu Portfolio
 Welcome to the personal portfolio website of Siyamthanda Dlakavu, a web developer and AI/ML enthusiast. This project showcases my skills, experience, and projects in a sleek, modern, and interactive interface.
-* Demo: https://siyamthanda-dlakavu-profile.netlify.app/
+
+🚀 **Live Demo:** https://siyamthanda-dlakavu-profile.netlify.app/
 
 ## 🌟 Features
 * Interactive Three.js Backgrounds: The homepage and contact page feature dynamic, animated particle backgrounds created with Three.js, providing an engaging user experience.
